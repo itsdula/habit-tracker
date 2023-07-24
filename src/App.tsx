@@ -1,3 +1,5 @@
+import { Button } from "@mantine/core";
+
 export default function App() {
-  return <>Coming Soon...</>;
+  return <Button>Coming Soon...</Button>;
 }
